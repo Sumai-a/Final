@@ -300,8 +300,8 @@ nav .icons .zero{
 
 #product .container .row .col-12 .pro-box{
     position: relative;
-    width: 536px;
-    height: 300px;
+    /* width: 536px; */
+    /* height: 300px; */
 }
 
 #product .container .row .col-12 .pro-box .overlay{
@@ -342,8 +342,9 @@ nav .icons .zero{
 
 #product .container .row .col-lg-7 .pro-box{
     position: relative;
-    width: 760px;
-    height: 664px;
+    /* width: 760px; */
+    /* height: 664px; */
+    margin: 6px
 }
 
 
